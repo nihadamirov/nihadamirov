@@ -9,7 +9,7 @@
 
 - 💬 I'm currently learning new **technologies**
 
-- 📫 How to reach me **nihadamirov@gmail.com**
+- 📫 How to reach me **nihadamirov.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
